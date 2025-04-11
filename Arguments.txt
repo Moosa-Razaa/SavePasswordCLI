@@ -1,25 +1,5 @@
 Actions:
-- create
-- read
-- update
+- add
+- list
+- verify
 - delete
-
-<create>
-no of arguments: 3
-    > email/domain (Optional): string
-    
-    > default password: string
-    > password: string
-    
-<read>
-no of arguments: 2
-    > email/domain (Optional): string
-    
-    > default password: string
-    
-<update>, <delete>
-no of arguments: 3
-    > email/domain (Optional): string
-    
-    > default password: string
-    > new password: string
